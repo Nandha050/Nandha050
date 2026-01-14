@@ -16,10 +16,10 @@
 
 ## 🚀 Who I Am
 
-🎓 College: Institute Of Aerounatical Engineering (IARE)
-🖥️ Branch: Computer Science and Engineering (B.Tech)
-💡 Interests: MERN Stack Development • Python • AI-Powered Platforms • UX Design
-🌱 Currently Exploring: MERN Stack • API Integrations • AI •LLMs • Real-time Communication Features
+- 🎓 College: Institute Of Aerounatical Engineering (IARE)
+- 🖥️ Branch: Computer Science and Engineering (B.Tech)
+- 💡 Interests: MERN Stack Development • Python • AI-Powered Platforms • UX Design
+- 🌱 Currently Exploring: MERN Stack • API Integrations • AI •LLMs • Real-time Communication Features
 
 ---
 
@@ -30,26 +30,22 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-
 ### 🤖 AI / NLP
 ![LangChain](https://img.shields.io/badge/LangChain-0f172a?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1e293b?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google)
 ![spaCy](https://img.shields.io/badge/spaCy-09a3d5?style=for-the-badge)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-8b5cf6?style=for-the-badge)
-
 ### 🗄️ Databases & Infra
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 ![BullMQ](https://img.shields.io/badge/BullMQ-e11d48?style=for-the-badge)
-
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
-
 ### 🧰 Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
