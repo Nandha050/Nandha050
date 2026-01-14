@@ -1,6 +1,5 @@
-<p align="center">
-  
-  #Hi there, I'm Kummari Maruthi 👋
+# Hi there, I'm Nanda kishor👋
+
 
 <p align="center">
   <b>Computer Science Engineer • AI Systems Builder • Backend & Full-Stack Developer</b><br/>
@@ -144,9 +143,9 @@ I’m interested in:
 
 📬 **If you’re building something serious — let’s talk.**
 
-GitHub: github.com/Nandha050
-LinkedIn: linkedin.com/in/nanda-kishor
-Email: nandhu.4562@gmail.com
+- GitHub: github.com/Nandha050
+- LinkedIn: linkedin.com/in/nanda-kishor
+- Email: nandhu.4562@gmail.com
 
 
 ⭐ *Star a repo if you find my work useful.*
