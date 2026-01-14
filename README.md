@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nandha+Kishor;Full-Stack+%7C+AI+Engineer+in+Progress;Building+Real-World+Impactful+Systems;Open+Source+%26+Hackathon+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nandha+Kishor" />
 </p>
 
 <p align="center">
@@ -56,9 +56,8 @@ I believe software should **reduce friction, amplify humans, and scale impact**.
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
-### 🤖 AI & Tools
+### 🤖 Tools & other
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
@@ -67,47 +66,18 @@ I believe software should **reduce friction, amplify humans, and scale impact**.
 
 ## 💡 Flagship Projects
 
-### 🏥 **E-Hospital Digital Platform**
-> A real-world hospital workflow automation system  
-- Appointments, live queue, prescriptions, labs & billing  
-- Multi-role access (Patient / Doctor / Lab / Pharmacy)  
-- Designed for scalability and real deployment  
-**Stack:** Web Stack, Backend APIs, Databases, Real-Time Systems  
-
----
-
-### 🧬 **AI-Driven Biological Insights Platform**
-> Research-oriented bioinformatics assistant  
-- Gene → Protein → Disease → Drug mapping  
-- AlphaFold, UniProt, PDB API integrations  
-- Interactive AI-style exploration  
-**Stack:** Python, APIs, Data Visualization  
-
----
-
-### 📚 **AI Education Intelligence System**
-> Personalized learning & career guidance engine  
-- Topic-based roadmaps  
-- AI summaries & recommendations  
-- Skill trend analysis  
-**Stack:** Python, NLP, Web Technologies  
-
----
-
-### 🍲 **Smart Recipe Discovery App**
-> Ingredient-to-recipe matching system  
-- API fallback architecture  
-- Clean UX with dynamic UI  
-**Stack:** Flask, JS, APIs  
+ 
 
 ---
 
 ## 📌 What I’m Actively Doing
 
-- 🚀 Contributing to Open Source (Winter of Code)  
+- 🚀 Contributing to Open Source 
 - 🧠 Exploring AI + Web System Design  
 - 🏗️ Building resume-grade, production-ready projects  
-- 📖 Strengthening DSA & backend fundamentals  
+- 📖 Strengthening DSA & backend fundamentals
+- 🗣️  Real-time Communication Features
+
 
 ---
 
@@ -127,6 +97,12 @@ I’m open to:
 - Startup-Level Product Building  
 - Hackathons & Internships  
 
+
 📬 **Reach out — I respond fast.**
+
+GitHub: github.com/nandha050
+LinkedIn: linkedin.com/in/nanda-kishor
+Email: nandhu.4562@gmail.com
+
 
 ⭐ *If my work resonates with you, star a repository or start a conversation.*
