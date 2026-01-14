@@ -1,6 +1,6 @@
 <p align="center">
   
-  Hi there, I'm Kummari Maruthi 👋
+  #Hi there, I'm Kummari Maruthi 👋
 
 <p align="center">
   <b>Computer Science Engineer • AI Systems Builder • Backend & Full-Stack Developer</b><br/>
