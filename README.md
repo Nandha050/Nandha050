@@ -1,10 +1,7 @@
 # Hi there, I'm Nanda kishor👋
 
-
-
   <b>Computer Science Engineer • AI Systems Builder • Backend & Full-Stack Developer</b><br/>
   I design and engineer <b>production-grade AI systems</b> that process complex data, scale reliably, and deliver actionable intelligence.
-
 
 <p align="center">
   <a href="https://github.com/Nandha050">
@@ -19,27 +16,10 @@
 
 ## 🚀 Who I Am
 
-I’m a **CSE undergraduate engineer** focused on building **AI-powered, backend-heavy, production-ready systems** — with a strong emphasis on **UI/UX clarity and product usability**.
-
-My work emphasizes:
-- 🧠 **AI pipelines & LLM orchestration**
-- ⚙️ **Scalable backend architecture**
-- 🎨 **UI/UX-driven product design**
-- 📊 **Data extraction, analysis & insights**
-- 🔐 **Security, reliability & system design**
-
-I enjoy working on problems where **complex inputs → structured intelligence → real business value**.
-
----
-
-## 🧠 Core Focus Areas
-
-- AI Agents & Multi-Agent Systems  
-- LLM Pipelines (LangChain, LangGraph)  
-- Backend Engineering (APIs, Queues, Workers)  
-- Document Intelligence & NLP  
-- Scalable System Design  
-- AI-Driven Decision Support Systems  
+🎓 College: Institute Of Aerounatical Engineering (IARE)
+🖥️ Branch: Computer Science and Engineering (B.Tech)
+💡 Interests: MERN Stack Development • Python • AI-Powered Platforms • UX Design
+🌱 Currently Exploring: MERN Stack • API Integrations • AI •LLMs • Real-time Communication Features
 
 ---
 
@@ -80,48 +60,20 @@ I enjoy working on problems where **complex inputs → structured intelligence �
 
 ## 💡 Flagship Projects
 
-### 🧠 **ReportMind AI — Intelligent PDF Report Processing System**
-**Status:** ✅ Production Ready  
+### 🎯 ReportMind AI — Intelligent PDF Report Processing System
+Enterprise-grade AI platform that extracts, structures, and analyzes large PDF reports using a multi-agent LangGraph pipeline.
+Designed 9 AI agents with async job processing via Redis & BullMQ for scalable document handling.
+Integrated Azure Document Intelligence and MongoDB (16 collections) for reliable persistence and insight generation.
 
-Enterprise-grade AI system that processes large PDF reports using a **multi-agent LangGraph pipeline**.
+### 🛡️ PreBunk AI — Multimodal Cognitive Security Platform
+AI-driven system to detect manipulative patterns in both text and images using Google Gemini models.
+Built a modern Vite + React + TypeScript frontend with Tailwind CSS v4 and secure API handling.
+Emphasized UX clarity, fast feedback loops, and production-ready deployment workflows.
 
-**Highlights**
-- 9 AI agents with full business logic  
-- Async PDF processing with Redis + workers  
-- Azure Document Intelligence integration  
-- MongoDB persistence (16 collections)  
-- Fully documented (2k+ lines docs)  
-
-**Use Case:** Automated enterprise report intelligence  
-**Tech:** Node.js, LangGraph, MongoDB, Redis, Azure AI  
-
----
-
-### 🛡️ **PreBunk AI — Multimodal Cognitive Security**
-AI system that detects **manipulative patterns in text & images** using Gemini.
-
-**Highlights**
-- Multimodal analysis (text + image)  
-- Gemini API integration  
-- Secure API proxy option  
-- Modern frontend (React + TS + Tailwind v4)  
-
-**Use Case:** Misinformation & cognitive security  
-**Tech:** React, TypeScript, Gemini, Vite, Tailwind  
-
----
-
-### 🎯 **Automated Resume Relevance Check System**
-AI-powered resume evaluation engine built for **Innomatics Research Labs**.
-
-**Highlights**
-- Resume vs JD semantic matching  
-- Hybrid scoring (TF-IDF + embeddings + LLM)  
-- Relevance score (0–100) + gap analysis  
-- Streamlit dashboard for recruiters & students  
-
-**Use Case:** Large-scale hiring automation  
-**Tech:** Python, FastAPI, Gemini, spaCy, Streamlit  
+### 🧠 Automated Resume Relevance Check System
+Large-scale AI resume evaluation engine developed for Innomatics Research Labs.
+Implemented hybrid scoring using TF-IDF, embeddings, and LLM-based semantic analysis.
+Delivered a Streamlit dashboard providing relevance scores, gap analysis, and recruiter-friendly workflows.
 
 ---
 
@@ -138,7 +90,8 @@ AI-powered resume evaluation engine built for **Innomatics Research Labs**.
 I’m interested in:
 - AI / LLM-based systems  
 - Backend & platform engineering  
-- Research-oriented products  
+- Research-oriented products
+- Real-time communication & UX innovations
 - Open source & high-impact startups  
 
 📬 **If you’re building something serious — let’s talk.**
