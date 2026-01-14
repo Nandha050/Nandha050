@@ -1,10 +1,10 @@
 # Hi there, I'm Nanda kishor👋
 
 
-<p align="center">
+
   <b>Computer Science Engineer • AI Systems Builder • Backend & Full-Stack Developer</b><br/>
   I design and engineer <b>production-grade AI systems</b> that process complex data, scale reliably, and deliver actionable intelligence.
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Nandha050">
