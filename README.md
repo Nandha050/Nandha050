@@ -1,131 +1,132 @@
-# Hi 👋, I'm Nandha Kishor
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nandha+Kishor;Full-Stack+%7C+AI+Engineer+in+Progress;Building+Real-World+Impactful+Systems;Open+Source+%26+Hackathon+Contributor" />
+</p>
 
-🚀 Computer Science Engineering student | Full-Stack Developer | AI & Open-Source Enthusiast  
+<p align="center">
+  <b>Computer Science Engineer • Full-Stack Developer • AI & Research Enthusiast</b><br/>
+  I design and build <b>scalable, intelligent, and user-centric systems</b> that solve real-world problems.
+</p>
 
-I love building **real-world, problem-solving web applications** that combine clean UI, scalable backend systems, and intelligent features.  
-Currently focused on **Full-Stack Development, AI-powered systems, and Open Source contributions**.
+<p align="center">
+  <a href="https://github.com/Nandha050">
+    <img src="https://komarev.com/ghpvc/?username=Nandha050&style=flat-square&color=4F46E5"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20Driven-Builder-blueviolet?style=flat-square"/>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 Who I Am (In Short)
 
-- 🎓 **CSE Undergraduate**
-- 💡 Passionate about **building impactful software**
-- 🧠 Strong in **Python** and **Web Technologies**
-- 🌱 Exploring **AI integrations**, **APIs**, and **System Design**
-- 🤝 Open to **collaborations, internships, and hackathons**
-- 🏆 Participant in **Build with India Hackathon** & **Winter of Code**
+I’m a **CSE undergraduate engineer** focused on building **production-grade web platforms and AI-assisted systems**.
+
+My work sits at the intersection of:
+- ⚙️ **Robust backend engineering**
+- 🎨 **Clean, accessible UI**
+- 🧠 **AI-powered intelligence**
+- 🌍 **Real-world usability & scale**
+
+I believe software should **reduce friction, amplify humans, and scale impact**.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🧠 Focus Areas
+
+- AI-powered Web Applications  
+- Intelligent Automation & NLP  
+- Scalable Backend Systems  
+- API-First Architecture  
+- Open Source Engineering  
+
+---
+
+## 🛠️ Technology Stack
 
 ### 🌐 Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- Bootstrap, Tailwind CSS
-- Responsive UI Design
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
 
-### ⚙️ Backend
-- Python (Flask, Django – basics)
-- Node.js, Express.js
-- REST APIs
+### ⚙️ Backend & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
-### 🗄️ Databases
-- MongoDB
-- PostgreSQL (basic)
-- Firebase
-
-### 🤖 AI / Data
-- Python for automation & logic
-- NLP concepts
-- API-based AI integration
-
-### 🧰 Tools & Platforms
-- Git & GitHub
-- Postman
-- VS Code
-- Docker (basic)
-- Render, Vercel, GitHub Pages
+### 🤖 AI & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-## 🚀 Featured Projects
+## 💡 Flagship Projects
 
-### 🏥 **E-Hospital Management System**
-A complete digital hospital ecosystem.
-- Patient appointment booking & live queue tracking  
-- Doctor, Lab, Pharmacy, Billing modules  
-- Secure authentication & role-based access  
-**Tech:** React / HTML-CSS-JS, Django / Node.js, PostgreSQL, WebSockets  
-
----
-
-### 🧬 **Biological Insights Web App**
-Smart system that provides structured biological data.
-- Gene → Protein → Disease → Drug associations  
-- Integrates UniProt, AlphaFold, PDB APIs  
-- Interactive, ChatGPT-like follow-ups  
-**Tech:** Python, APIs, Web Visualization  
+### 🏥 **E-Hospital Digital Platform**
+> A real-world hospital workflow automation system  
+- Appointments, live queue, prescriptions, labs & billing  
+- Multi-role access (Patient / Doctor / Lab / Pharmacy)  
+- Designed for scalability and real deployment  
+**Stack:** Web Stack, Backend APIs, Databases, Real-Time Systems  
 
 ---
 
-### 📚 **AI-Powered Education Resource Platform**
-Personalized learning assistant.
-- Topic-based roadmaps (AI, AWS, DevOps, CN, OS)  
-- AI recommendations, summaries & smart search  
-- Internship & job trend insights  
-**Tech:** Python, NLP, Web Stack  
+### 🧬 **AI-Driven Biological Insights Platform**
+> Research-oriented bioinformatics assistant  
+- Gene → Protein → Disease → Drug mapping  
+- AlphaFold, UniProt, PDB API integrations  
+- Interactive AI-style exploration  
+**Stack:** Python, APIs, Data Visualization  
 
 ---
 
-### 🍲 **Recipe Finder Based on Ingredients**
-Smart cooking assistant.
-- Ingredient-based recipe matching  
-- API fallback if local data not found  
-- Scrollable UI with clean UX  
-**Tech:** HTML, CSS, JS, Flask, APIs  
+### 📚 **AI Education Intelligence System**
+> Personalized learning & career guidance engine  
+- Topic-based roadmaps  
+- AI summaries & recommendations  
+- Skill trend analysis  
+**Stack:** Python, NLP, Web Technologies  
 
 ---
 
-### 🎤 **Voice-Controlled To-Do App**
-Hands-free task management.
-- Speech-to-text commands  
-- GUI-based task handling  
-**Tech:** Python, Speech Recognition, Tkinter  
+### 🍲 **Smart Recipe Discovery App**
+> Ingredient-to-recipe matching system  
+- API fallback architecture  
+- Clean UX with dynamic UI  
+**Stack:** Flask, JS, APIs  
 
 ---
 
-## 🌱 Currently Learning
+## 📌 What I’m Actively Doing
 
-- Advanced **Backend Architecture**
-- **AI + Web App Integration**
-- **System Design Basics**
-- Open-Source best practices
-
----
-
-## 🤝 Open to Collaborate On
-
-- Full-Stack Web Applications
-- AI-powered platforms
-- Open Source Projects
-- Hackathons & Research-based ideas
+- 🚀 Contributing to Open Source (Winter of Code)  
+- 🧠 Exploring AI + Web System Design  
+- 🏗️ Building resume-grade, production-ready projects  
+- 📖 Strengthening DSA & backend fundamentals  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandha050&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandha050&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-- 🔗 GitHub: https://github.com/Nandha050
-- 💼 LinkedIn: *(add when ready)*
-- 📧 Email: *(add if you want)*
+![Stats](https://github-readme-stats.vercel.app/api?username=Nandha050&show_icons=true&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nandha050&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandha050&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*
+## 🤝 Let’s Build Something Meaningful
+
+I’m open to:
+- Open Source Collaborations  
+- Research-Oriented Projects  
+- Startup-Level Product Building  
+- Hackathons & Internships  
+
+📬 **Reach out — I respond fast.**
+
+⭐ *If my work resonates with you, star a repository or start a conversation.*
